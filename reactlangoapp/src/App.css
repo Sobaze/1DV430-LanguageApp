@@ -1,0 +1,165 @@
+.App {
+  background-color: #282c34;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  width: 10%;
+  display: flex;
+  float: left;
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.MyNav {
+  float: left;
+}
+
+.NavBarOptions {
+  width: 100px;
+  list-style: none;
+}
+
+.hiragana-content {
+  margin-left: 200px;
+}
+.NavBarOptions a {
+  color: #9FFFCB;
+}
+
+.hiragana-content {
+  margin-left: 200px;
+  background-color: white;
+  min-height: 100vh;
+}
+
+.katakana-content {
+  margin-left: 200px;
+  background-color: white;
+  min-height: 100vh;
+}
+.about-info {
+  background-color: white;
+}
+.practice {
+  background-color: white;
+}
+.home {
+  background-color: white;
+}
+.loginPage {
+  background-color: white;
+}
+
+.GanaToGuess {
+  font-size: 60px;
+}
+
+.answerStatus {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.aButton {
+  background-color:tomato;
+  margin: 20px;
+  font-size: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.aButton:focus {
+  background-color: teal;
+}
+
+.answerButton {
+  background-color: lightblue;
+  width: 100%;
+  font-size: 40px;
+  height: 80px;
+}
+
+.NextQButton {
+  background-color: rgb(71, 115, 129);
+  width: 100%;
+  font-size: 40px;
+  height: 80px;
+  text-align: center;
+}
+
+.startPractice {
+  background-color: rgb(89, 133, 89);
+  width: 100%;
+  font-size: 40px;
+  height: 80px;
+}
+
+.stoppPractice {
+  background-color: rgb(206, 37, 7);
+  width: 100%;
+  font-size: 40px;
+  height: 80px;
+}
+
+.kanjiLesson {
+  background-color: teal;
+  width: 100px;
+  font-size: 20px;
+  height: 100px;
+}
+
+.kanjiLesson:focus {
+  background-color: turquoise;
+}
+
+.GobkToLessoninformation {
+  background-color: rgb(13, 163, 118);
+  width: 100%;
+  font-size: 40px;
+  height: 80px;
+}
+
+
+.comboChart {
+  width: 800px;
+}
+.tentenChart {
+  height: 353px;
+}
+.ganaChart {
+  height: 353px;
+}
+
+.hclass {
+  margin-left: 20px;
+}
+
+.tableDiv {
+  margin-left: 100px;
+  margin-bottom: 24px;
+  float: left;
+  width: 500px;
+}
+
+.kanjiPContent {
+  margin-top: 30px;
+}
+
+
+
+.tableDiv td {
+  border: 2px solid #ddd;
+  margin-left: 20px;
+  text-align: center;
+}
+.tableTitle {
+  background-color: rgb(45, 197, 151) !important;
+}
+table {
+  margin-left: 20px;
+}
